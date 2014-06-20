@@ -62,11 +62,13 @@ void loop()
 void setTime()
 {
         unsigned long milli = millis();
- 
+/* 
         unsigned long totalsecs = milli/1000;
         seconds = (totalsecs %3600)%60 ;
         minutes = (totalsecs%3600)/60;
         hours = totalsecs/3600;
+//
+*/
         totalmins = milli/60000;
 }
  
