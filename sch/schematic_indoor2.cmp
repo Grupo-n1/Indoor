@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 08/07/2014 20:21:34
+
+BeginCmp
+TimeStamp = /53BB2295;
+Reference = 16mhz1;
+ValeurCmp = CRYSTAL;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB339C;
+Reference = 22pf1;
+ValeurCmp = C;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB33AB;
+Reference = 22pf2;
+ValeurCmp = C;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB22A4;
+Reference = 22pf3;
+ValeurCmp = C;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB22D0;
+Reference = 22pf4;
+ValeurCmp = C;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB2C29;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB2905;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB226C;
+Reference = IC1;
+ValeurCmp = ATMEGA328-P;
+IdModule  = DIP-28__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB2E74;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BC87E4;
+Reference = P2;
+ValeurCmp = Watering;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BC83CA;
+Reference = P3;
+ValeurCmp = Light;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BC6C1F;
+Reference = P4;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_2X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BC6C08;
+Reference = P5;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_2X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BC8228;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB2D19;
+Reference = Photocell1;
+ValeurCmp = R;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB2C1D;
+Reference = Q1;
+ValeurCmp = 2SC1941;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB2747;
+Reference = Q2;
+ValeurCmp = 2SC1941;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB2E19;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB2E8D;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB2C4D;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB2709;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BB354A;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = R1;
+EndCmp
+
+EndListe
